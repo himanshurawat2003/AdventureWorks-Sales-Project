@@ -29,3 +29,5 @@ Utilized SQL Server Management Studio and Power BI for comprehensive sales analy
 ## Conclusion
 Empowered Sales Managers and Representatives with visual insights into sales trends, customer behavior, and product performance, aiding informed decision-making for improved sales strategies.
 
+## BLOG LINK :- https://medium.com/@himanshu_rawat2003/analyzing-data-science-job-salaries-a-sql-and-power-bi-exploration-04ce932b6c40
+
